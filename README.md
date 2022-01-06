@@ -24,6 +24,8 @@ Then, you only need to make the following changes to the code:
 ```sh
 python3 amazon_track.py
 ```
+## Disclaimer:
+This script is not meant to be used in production.
 
 ## License
 
